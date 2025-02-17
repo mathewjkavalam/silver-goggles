@@ -3,5 +3,10 @@
 * user wants to locate a file in his computer which he kind of nows the parent folder: "help me get file contained in a folder with a big video file. The file have not be accessed for atleast 2 months"
 
 ## Salient features
-* LLM powered search
-* works totally offline
+* Natural language search
+* Works totally offline
+
+### Tech stack
+* NLP - Llama-3.2-1B-Instruct
+* LLM local hosting - lmsstudio[https://lmstudio.ai/]
+* Glue - CPython
