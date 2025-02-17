@@ -8,5 +8,5 @@
 
 ### Tech stack
 * NLP - Llama-3.2-1B-Instruct
-* LLM local hosting - lmsstudio[https://lmstudio.ai/]
+* LLM local hosting - [lmsstudio](https://lmstudio.ai/)
 * Glue - CPython
